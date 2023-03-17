@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">AKTU NOTES</string>
+    <string name="engineering">ENGINEERING</string>
+    <string name="quantum_book">Quantum Book</string>
+    <string name="branchicon">branchicon</string>
+    <string name="year">Year</string>
+    <string name="i">I</string>
+    <string name="ii">II</string>
+    <string name="iii">III</string>
+    <string name="iv">IV</string>
+</resources>
