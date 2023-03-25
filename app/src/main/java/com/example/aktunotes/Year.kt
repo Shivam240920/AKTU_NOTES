@@ -3,6 +3,7 @@ package com.example.aktunotes
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import android.widget.Toast
 import androidx.cardview.widget.CardView
 
 class Year : AppCompatActivity() {
@@ -14,7 +15,7 @@ class Year : AppCompatActivity() {
         var year = 0
 
         findViewById<CardView>(R.id.yearI).setOnClickListener {
-            val intent = Intent()
+
         }
 
     }
